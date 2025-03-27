@@ -22,12 +22,20 @@
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="30">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-EJS-8BC34A?style=flat&logo=ejs&logoColor=white" height="30">
   <br />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30">
+  <br />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="30">
 </p>
 
 
